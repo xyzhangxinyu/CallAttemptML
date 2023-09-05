@@ -1,2 +1,2 @@
 # CallAttemptML
-R Code for Predicting the Number of Future Call Attempts
+R Code for predicting the number of future call attempts after some call attempts
