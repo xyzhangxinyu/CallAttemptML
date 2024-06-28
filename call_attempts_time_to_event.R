@@ -12,7 +12,7 @@ library(BART)
 library(dplyr)
 
 # This R program shows an example of the cutoff point set at call attempt 3. 
-# The cutoff point can be modified based on the researcher's need.
+# The cutoff point can be modified based on researcher's need.
 cut = 3
 
 #########################
